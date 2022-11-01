@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Wisata Lampung</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">Goes To Lampung</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>1.Way Kambas</item>
+        <item>2.Pulau Pahawang</item>
+        <item>3.Pantai Gigi Hiu</item>
+        <item>4.Puncak Mas</item>
+        <item>5.Labuhan Jukung</item>
+        <item>6.Kebun Karet Trikora</item>
+        <item>7.Bendungan Way Rarem</item>
+        <item>8.Pantai Sari Ringgung</item>
+        <item>9.Air Terjun Batu Putu</item>
+        <item>10.Bukit Sakura Kemiling</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Taman Nasional Way Kambas adalah taman nasional perlindungan gajah yang terletak di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Selain di Way Kambas, sekolah gajah juga bisa ditemui di Minas, Riau. Gajah Sumatra yang hidup di kawasan ini semakin berkurang jumlahnya.</item>
+        <item>Pulau Pahawang adalah desa dan pulau di kecamatan Marga Punduh, Kabupaten Pesawaran, Lampung, Indonesia. Pulau ini terletak lepas Teluk Punduh.</item>
+        <item>Dinamakan Pantai Gigi Hiu sebab memiliki bebatuan karang yang bentuknya tajam layaknya gigi hiu. Selain itu, pantai ini pula disebut sebagai Pantai Batu Layar oleh masyarakat sekitar.</item>
+        <item>Puncak Mas Lampung menjadi lokasi terbaik untuk melepas penat dari setumpuk pekerjaan yang tidak ada habisnya. Udara, dan pemandangan di lokasi tersebut memberikan nuansa nyaman bagi para pengunjung yang datang.</item>
+        <item>Wisata pantai Labuhan Jukung ini berada di daerah Kabupaten Pesisir Barat Lampung, atau lebih tepatnya terletak di pekon Kampung Jawa, Kecamatan Pesisir Tengah, Krui Pesisir Barat. Dulunya wilayah ini masuk dalam Kabupaten Lampung Barat.</item>
+        <item>Kebun karet trikora merupakan salah satu objek wisata alam di Lampung Selatan yang dikenal eksotis. Bahkan, pemandangannya digadang-gadang mirip dengan Hutan Bambu Sagano di Jepang.</item>
+        <item>Bendungan ini terletak di Desa Kurun, Kecamatan Abung Pekurun, Kabupaten Lampung Utara, Lampung. Untuk anda yang ingin bertandang kesana maka dapat melakukan perjalanan dari Pusat Kota Bandar Lampung dan langsung menuju ke arah Kotabumi. Untuk dapat sampai bendungan ini dapat menggunakan kendaraan umum atau pribadi. Seperti Damri, Puspa Jaya dan kendaraan umum lainnya.</item>
+        <item>Pantai Sari Ringgung berada di Desa Sidodadi, Kecamatan Padang Cermin, Kabupaten Pesawaran Lampung.  Untuk bisa sampai di pantai tersebut anda membutuhkan waktu kurang lebih setengah jam dalam perjalanan dari Bandar Lampung.</item>
+        <item>Bandar Lampung juga memiliki wisata alam air terjun. Salah satu wisata alam tersebut ialah wisata Air Terjun Batu Putu. Air terjun ini berada di Desa Batu Putu, Kecamatan Teluk Betung Utara, Kota Bandar Lampung, Provinsi Lampung.</item>
+        <item>Bukit Sakura berada di daerah Kemiling, tepatnya di Jalan Batu Kalam, Langkapura, Bandar Lampung. Tempatnya terletak di tengah-tengah antara Jalan Imam Bondjol dan Jalan Raden Imba Kesuma, tempat wisata yang tergolong baru di Lampung. Konsep tempat ini adalah bertemakan dengan suasana Jepang. Disana kamu bisa menikmati pemandangan alami dari atas perbukitan yang indah.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kambas</item>
+        <item>@drawable/pahawang</item>
+        <item>@drawable/gigi</item>
+        <item>@drawable/puncak</item>
+        <item>@drawable/krui</item>
+        <item>@drawable/karet</item>
+        <item>@drawable/bendungan</item>
+        <item>@drawable/sari</item>
+        <item>@drawable/batu</item>
+        <item>@drawable/sakura</item>
+    </integer-array>
+
+</resources>
